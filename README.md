@@ -4,8 +4,8 @@ A simple app to implement google maps device location & Search with place auto c
 <br>
 
 ## Screenshots:
-<img src="Screenshots/Screenshot_2018-09-06-19-31-45.png" />
-<img src="Screenshots/Screenshot_2018-09-06-19-31-30.png" />
+<img src="Screenshots/Screenshot_2018-09-06-19-31-45.png" height="450"/>
+<img src="Screenshots/Screenshot_2018-09-06-19-31-30.png" height="450"/>
 <br>
 <br>
 
